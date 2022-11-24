@@ -1,0 +1,12 @@
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/implicit_clone-888177ab6bc8e9ac.rmeta: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/sync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/unsync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/string.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/array.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/map.rs
+
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/libimplicit_clone-888177ab6bc8e9ac.rlib: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/sync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/unsync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/string.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/array.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/map.rs
+
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/implicit_clone-888177ab6bc8e9ac.d: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/sync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/unsync.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/string.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/array.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/map.rs
+
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/lib.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/sync.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/unsync.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/string.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/array.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/implicit-clone-0.3.2/src/map.rs:

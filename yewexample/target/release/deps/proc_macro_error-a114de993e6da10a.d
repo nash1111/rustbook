@@ -1,0 +1,12 @@
+/home/kk/oss/rustbook/yewexample/target/release/deps/proc_macro_error-a114de993e6da10a.rmeta: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/dummy.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/diagnostic.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/sealed.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/home/kk/oss/rustbook/yewexample/target/release/deps/libproc_macro_error-a114de993e6da10a.rlib: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/dummy.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/diagnostic.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/sealed.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/home/kk/oss/rustbook/yewexample/target/release/deps/proc_macro_error-a114de993e6da10a.d: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/dummy.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/diagnostic.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/sealed.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/imp/fallback.rs
+
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/lib.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/dummy.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/diagnostic.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/macros.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/sealed.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-1.0.4/src/imp/fallback.rs:

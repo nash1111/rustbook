@@ -1,0 +1,20 @@
+/home/kk/oss/rustbook/yewexample/target/release/deps/librustversion-98c6aa8b7f011371.so: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /home/kk/oss/rustbook/yewexample/target/release/build/rustversion-54ca7f90beb6ac1a/out/version.expr
+
+/home/kk/oss/rustbook/yewexample/target/release/deps/rustversion-98c6aa8b7f011371.d: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs /home/kk/oss/rustbook/yewexample/target/release/build/rustversion-54ca7f90beb6ac1a/out/version.expr
+
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/lib.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/attr.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/bound.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/constfn.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/date.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/error.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expand.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/expr.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/iter.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/release.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/time.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/token.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/rustversion-1.0.9/src/version.rs:
+/home/kk/oss/rustbook/yewexample/target/release/build/rustversion-54ca7f90beb6ac1a/out/version.expr:
+
+# env-dep:OUT_DIR=/home/kk/oss/rustbook/yewexample/target/release/build/rustversion-54ca7f90beb6ac1a/out

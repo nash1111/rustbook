@@ -1,0 +1,12 @@
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/gloo_console-63b41b2f2bf90a4d.rmeta: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/libgloo_console-63b41b2f2bf90a4d.rlib: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/home/kk/oss/rustbook/yewexample/target/wasm32-unknown-unknown/release/deps/gloo_console-63b41b2f2bf90a4d.d: /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs /home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs
+
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/lib.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/console_dbg.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/counter.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/externs.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/macros.rs:
+/home/kk/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-console-0.2.3/src/timer.rs:
